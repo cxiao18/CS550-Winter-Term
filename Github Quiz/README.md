@@ -10,4 +10,3 @@
 	* _caramel ice cream_
 
 
-Link to Quiz: https://github.com/cxiao18/CS550-Winter-Term/tree/master/Github%20Quiz
