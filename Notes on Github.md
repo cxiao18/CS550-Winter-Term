@@ -6,6 +6,8 @@ GitHub is a platform that allows coders to collaborate on and review code togeth
 It uses version control, so users can work on a snapshot of the code at one time without making any permanent changes to the master.
 GitHub Desktop syncs your laptop to the site, allowing you to access code directly from the app.
 
+_On GitHub Desktop, you have to push to the origin to send your changes to the sitre, pull from the origin to get other user's changes, and fetch the origin to keep updated._
+
 
 ## Repositories
 Repositories are used to organize a single coding project.
