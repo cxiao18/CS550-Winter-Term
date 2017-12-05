@@ -6,7 +6,7 @@ GitHub is a platform that allows coders to collaborate on and review code togeth
 It uses version control, so users can work on a snapshot of the code at one time without making any permanent changes to the master.
 GitHub Desktop syncs your laptop to the site, allowing you to access code directly from the app.
 
-_On GitHub Desktop, you have to push to the origin to send your changes to the sitre, pull from the origin to get other user's changes, and fetch the origin to keep updated._
+_On GitHub Desktop, you have to push to the origin to send your changes to the site, pull from the origin to get other user's changes, and fetch the origin to stay updated._
 
 
 ## Repositories
@@ -24,7 +24,7 @@ __To delete a branch, go to branch at the top, then Delete__
 
 
 ## Commits
-Commits are saved changes that have been made permanent.
+Commits are saved changes that can now be made permanent.
 Each commit comes with a brief message that describes what changes you have made and why to anyone reviewing your code.
 
 __To commit changes, save the changes you have made in Sublime. Then on GitHub desktop, go to the bottom left and type in a title in the Summary box and a brief description, if needed, of the changes you have made. Then, commit the changes to the branch.__
@@ -39,7 +39,7 @@ Zhi's way: checkout to the commit that you want to revert to, copy the contents 
 ## Pull Requests
 Pull Requests are the center of collaboration on GitHub.
 When you open a pull request, you are proposing your changes and asking someone else to review them.
-If you make a pull request to a repository that you are not the owner, you are asking the owner to review your changes and merge them into their master branch.
+If you make a pull request to a repository that you are not the owner of, you are asking the owner to review your changes and merge them into their master branch.
 
 
 
